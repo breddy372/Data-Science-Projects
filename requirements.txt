@@ -1,0 +1,6 @@
+pandas
+numpy
+ipykernel
+ucimlrepo
+mlxtend
+openpyxl
